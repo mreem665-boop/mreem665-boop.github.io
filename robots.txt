@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mreem665-boop.github.io/sitemap.xml
